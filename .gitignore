@@ -1,0 +1,7 @@
+*.class
+*.log
+.idea
+*.directory
+*.iml
+old/
+res/*
