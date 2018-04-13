@@ -2,7 +2,7 @@ package vulkan.xml.beautifire
 
 import java.io.File
 
-import scala.xml.XML
+import scala.xml.{Node, XML}
 
 /**
   * Created by philipp on 13.04.18.
